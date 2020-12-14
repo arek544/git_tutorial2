@@ -1,2 +1,1 @@
-pierwsza wersja
-wersja 2
+This is version from master.
